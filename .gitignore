@@ -1,0 +1,24 @@
+# Obsidian device and workspace state
+.obsidian/
+.trash/
+.Trash-*/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary/editor artifacts
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+
+# Secrets and local credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+token.json
