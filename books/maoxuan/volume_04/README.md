@@ -1,4 +1,4 @@
-# 第四卷｜第88—124篇索引
+# 第四卷｜第88—125篇索引
 
 本索引链接到 `work/` 中的正式编号笔记。第99篇版本A已有完整精读和质量验收记录，作为正式稿；版本B保留为补充参考稿，不替换正式稿。
 
@@ -42,7 +42,8 @@
 - [第122篇｜在晋绥干部会议上的讲话](../../../work/122_speech_at_suiyuan_cadres_conference.md)
 - [第123篇｜对晋绥日报编辑人员的谈话](../../../work/123_talk_with_jinsui_daily_editors.md)
 - [第124篇｜再克洛阳后给洛阳前线指挥部的电报](../../../work/124_telegram_to_luoyang_frontline_after_recapture.md)
+- [第125篇｜新解放区农村工作的策略问题](../../../work/125_strategy_for_rural_work_in_newly_liberated_areas.md)
 
 ## 当前交接
 
-下一项为第125篇《新解放区农村工作的策略问题》。请以 [唯一进度文件](../../../work/maoxuan_project_progress.md) 为准。
+下一项为第126篇《一九四八年的土地改革工作和整党工作》。请以 [唯一进度文件](../../../work/maoxuan_project_progress.md) 为准。

@@ -12,8 +12,8 @@
 ## 当前项目：《毛泽东选集》精读
 
 - 阅读底本：《毛泽东选集》，人民出版社1991年第二版，四卷本。
-- 当前仓库已归档编号覆盖：**第01—124篇**。
-- 当前下一项：**第125篇《新解放区农村工作的策略问题》**。具体任务状态以 [唯一进度文件](work/maoxuan_project_progress.md) 为准。
+- 当前仓库已归档编号覆盖：**第01—125篇**。
+- 当前下一项：**第126篇《一九四八年的土地改革工作和整党工作》**。具体任务状态以 [唯一进度文件](work/maoxuan_project_progress.md) 为准。
 - 编号覆盖表示对应文件已归档，不代表所有篇目都完成了同一轮质量返修；不要仅凭目录数量推断完成状态。
 - 第14篇有一个同内容的主模板副本；第99篇版本A是已完成验收的正式稿，版本B保留为补充参考稿，两份原文均保留。
 
@@ -23,7 +23,7 @@
   - [第一卷｜第01—34篇](books/maoxuan/volume_01/README.md)
   - [第二卷｜第35—55篇](books/maoxuan/volume_02/README.md)
   - [第三卷｜第56—87篇](books/maoxuan/volume_03/README.md)
-  - [第四卷｜第88—124篇](books/maoxuan/volume_04/README.md)
+  - [第四卷｜第88—125篇](books/maoxuan/volume_04/README.md)
 - [工作区说明](work/README.md)
 - [当前精读进度](work/maoxuan_project_progress.md)
 - [主精读模板](work/14_template_practice_on_the_relation_between_knowledge_and_action.md)
