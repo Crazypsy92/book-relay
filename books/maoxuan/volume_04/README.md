@@ -1,6 +1,6 @@
 # 第四卷｜第88—124篇索引
 
-本索引链接到 `work/` 中的正式编号笔记。第99篇保留两个内容不同的版本，尚未判定替代关系；两个文件都保留。
+本索引链接到 `work/` 中的正式编号笔记。第99篇版本A已有完整精读和质量验收记录，作为正式稿；版本B保留为补充参考稿，不替换正式稿。
 
 ## 正式笔记
 
@@ -15,8 +15,8 @@
 - [第96篇｜一九四六年解放区工作的方针](../../../work/96_policy_for_liberated_areas_in_1946.md)
 - [第97篇｜建立巩固的东北根据地](../../../work/97_establish_consolidated_northeast_base.md)
 - [第98篇｜关于目前国际形势的几点估计](../../../work/98_estimates_of_current_international_situation.md)
-- [第99篇｜以自卫战争粉碎蒋介石的进攻｜版本文件 A](../../../work/99_smash_chiang_kai_s_offensive_in_self_defense.md)
-- [第99篇｜以自卫战争粉碎蒋介石的进攻｜版本文件 B](../../../work/99_smash_chiang_kai_shek_s_offensive_in_self_defense.md)
+- [第99篇｜以自卫战争粉碎蒋介石的进攻｜正式稿（版本A，已验收）](../../../work/99_smash_chiang_kai_s_offensive_in_self_defense.md)
+- [第99篇｜以自卫战争粉碎蒋介石的进攻｜补充参考稿（版本B）](../../../work/99_smash_chiang_kai_shek_s_offensive_in_self_defense.md)
 - [第100篇｜和美国记者安娜·路易斯·斯特朗的谈话](../../../work/100_talk_with_anna_louise_strong.md)
 - [第101篇｜集中优势兵力，各个歼灭敌人](../../../work/101_concentrate_superior_forces_annihilate_enemy.md)
 - [第102篇｜美国“调解”真相和中国内战前途](../../../work/102_truth_about_us_mediation_and_future_of_chinese_civil_war.md)

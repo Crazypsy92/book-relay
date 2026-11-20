@@ -24,5 +24,5 @@
 
 - 正式篇目只在对应编号文件中维护。
 - `templates/` 与 `imported_notes/` 中的副本用于追溯，不要与正式文件并行编辑。
-- 第14篇存在同内容的正式笔记与主模板入口；第99篇有两个不同内容版本，均须保留，待专项核对后再决定是否整理。
+- 第14篇存在同内容的正式笔记与主模板入口；第99篇正式稿为 `99_smash_chiang_kai_s_offensive_in_self_defense.md`，补充参考稿为 `99_smash_chiang_kai_shek_s_offensive_in_self_defense.md`。两份文件均保留，后续常规编辑只修改正式稿。
 - 新增篇目先核对四卷索引和进度文件，再按既有命名方式建立文件。
