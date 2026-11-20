@@ -13,7 +13,7 @@
 ## 当前项目：《毛泽东选集》精读
 
 - 阅读底本：《毛泽东选集》，人民出版社1991年第二版，四卷本。
-- 当前已归档编号：**第001—128篇**；下一项为**第129篇《中共中央关于九月会议的通知》**。
+- 当前已归档编号：**第001—129篇**；下一项为**第130篇《关于淮海战役的作战方针》**。
 - 归档数量只表示文件已保存，不代表每篇都完成了同一轮质量返修；具体状态以 [唯一进度文件](work/maoxuan_project_progress.md) 为准。
 - 正式篇目文件统一使用三位数字前缀，例如 `001_...`、`016_...`、`125_...`，保证 GitHub 文件列表按编号自然排列。
 - 第99篇保留正式稿和补充参考稿两份文件；正式稿为 `099_smash_chiang_kai_s_offensive_in_self_defense.md`。
@@ -24,7 +24,7 @@
   - [第一卷｜已归档第001—015篇](books/maoxuan/volume_01/README.md)
   - [第二卷｜已归档第016—055篇](books/maoxuan/volume_02/README.md)
   - [第三卷｜已归档第056—087篇](books/maoxuan/volume_03/README.md)
-  - [第四卷｜已归档第088—128篇（持续更新）](books/maoxuan/volume_04/README.md)
+  - [第四卷｜已归档第088—129篇（持续更新）](books/maoxuan/volume_04/README.md)
 - [工作区说明](work/README.md)
 - [当前精读进度](work/maoxuan_project_progress.md)
 - [云端 Codex 工作规范](AGENTS.md)
