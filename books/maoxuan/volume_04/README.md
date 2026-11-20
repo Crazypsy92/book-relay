@@ -73,7 +73,8 @@
 - [第147篇｜南京政府向何处去？](../../../work/147_where_is_the_nanjing_government_going.md)
 - [第148篇｜向全国进军的命令](../../../work/148_order_to_advance_nationwide.md)
 - [第149篇｜中国人民解放军布告](../../../work/149_chinese_peoples_liberation_army_proclamation.md)
+- [第150篇｜中国人民解放军总部发言人为英国军舰暴行发表的声明](../../../work/150_statement_british_warship_outrages.md)
 
 ## 当前交接
 
-下一项为第150篇《中国人民解放军总部发言人为英国军舰暴行发表的声明》（1949年4月30日，第四卷第1460—1462页）。请以 [唯一进度文件](../../../work/maoxuan_project_progress.md) 为准。
+下一项为第151篇《在新政治协商会议筹备会上的讲话》（1949年6月15日，第四卷第1463—1467页）。请以 [唯一进度文件](../../../work/maoxuan_project_progress.md) 为准。
