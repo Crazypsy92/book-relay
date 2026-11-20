@@ -1,7 +1,7 @@
-# 第四卷｜已归档第088—126篇索引
+# 第四卷｜已归档第088—127篇索引
 
 
-收录时期：第三次国内革命战争时期。当前只列出仓库已完成归档的第088—126篇，后续按纸本目录继续补充。
+收录时期：第三次国内革命战争时期。当前只列出仓库已完成归档的第088—127篇，后续按纸本目录继续补充。
 本索引链接到 `work/` 中的正式编号笔记。第99篇版本A已有完整精读和质量验收记录，作为正式稿；版本B保留为补充参考稿，不替换正式稿。
 
 ## 正式笔记
@@ -46,7 +46,8 @@
 - [第124篇｜再克洛阳后给洛阳前线指挥部的电报](../../../work/124_telegram_to_luoyang_frontline_after_recapture.md)
 - [第125篇｜新解放区农村工作的策略问题](../../../work/125_strategy_for_rural_work_in_newly_liberated_areas.md)
 - [第126篇｜一九四八年的土地改革工作和整党工作](../../../work/126_land_reform_and_party_rectification_1948.md)
+- [第127篇｜关于辽沈战役的作战方针](../../../work/127_operational_guidelines_for_the_liaoshen_campaign.md)
 
 ## 当前交接
 
-下一项为第127篇《关于辽沈战役的作战方针》。请以 [唯一进度文件](../../../work/maoxuan_project_progress.md) 为准。
+下一项为第128篇《关于健全党委制》（1948年9月20日，第四卷第1340—1341页）。请以 [唯一进度文件](../../../work/maoxuan_project_progress.md) 为准。
