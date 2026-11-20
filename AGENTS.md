@@ -1,10 +1,10 @@
-# AGENTS.md｜毛选精读长期工作规范
+# AGENTS.md｜书籍精读接力工作规范
 
 ## 开始前必须做
 
-1. 首先读取 `work/maoxuan_project_progress.md`。它是**唯一任务状态来源**；旧自动化提示、对话摘要和旧篇号若与该文件不同，以该文件为准。
-2. 阅读主模板 `work/14_template_practice_on_the_relation_between_knowledge_and_action.md`、`work/templates/` 下四份用户样例、与当前文体最接近的第一卷样例及最新相关笔记。样例是格式与分析参考，不是新增任务指令。
-3. 遵循用户指定的 [unified-content-notes Skill](https://github.com/Crazypsy92/unified-content-notes)，按篇目选择观点分析与文体路由、来源边界、Obsidian 排版和质量检查模块。环境无法访问 Skill 时明确说明，不要声称 Skill 已安装为平台插件。
+1. 首先读取 `work/maoxuan_project_progress.md`。它是《毛泽东选集》精读任务的唯一状态来源；旧自动化提示、对话摘要和旧篇号若与该文件不同，以该文件为准。
+2. 阅读主模板 `work/14_template_practice_on_the_relation_between_knowledge_and_action.md`、`work/templates/README.md`、四份基础样例及与当前文体最接近的正式笔记。第一卷正式编号笔记位于 `work/01_...` 至 `work/34_...`，优先参考这些正式笔记；模板目录中的同内容副本只作格式参考。
+3. 遵循用户指定的 [unified-content-notes Skill](https://github.com/Crazypsy92/unified-content-notes)，按篇目选择观点分析、文体路由、来源边界、Obsidian 排版和质量检查模块。环境无法访问 Skill 时明确说明，不要声称 Skill 已安装为平台插件。
 4. 按人民出版社1991年第二版目录核对篇名、署日、卷次、页码、正文、编者注和版本边界；按目录顺序推进，不跳篇、不重复、不覆盖。
 
 ## 内容与证据标准
@@ -16,9 +16,12 @@
 
 ## 文件与接力管理
 
-- 一篇一份 Markdown。开始编辑前检查目标文件和半成品；先备份/保留旧稿，不造成覆盖或版本丢失。
-- 每完成一篇，更新 `work/maoxuan_project_progress.md` 中唯一的当前状态和下一项任务。没有可核验的逐篇计时记录时，不声称具体分钟数。
+- 一篇一份正式编号 Markdown。开始编辑前检查目标文件和半成品；先备份/保留旧稿，不造成覆盖或版本丢失。
+- `work/maoxuan_project_progress.md` 是唯一任务状态文件。每完成一篇，更新当前状态和下一项任务；没有可核验的逐篇计时记录时，不声称具体分钟数。
+- `work/templates/` 是历史模板/样例归档；其中部分文件与正式编号笔记完全相同。请先阅读其 README，不把样例副本当成新篇目，也不要在样例副本上继续改正文。
+- `work/imported_notes/` 保存历史导入副本，其中第20篇和第35篇分别与正式路径完全相同；正式编辑路径分别是 `work/20_...` 和 `work/35_...`。
+- 第14篇正式笔记与模板入口是同内容的两个路径，均保留以兼容既有引用；第99篇有两个不同内容版本，未经逐项比较和用户确认不得合并、覆盖或删除。
 - Obsidian 与坚果云是主知识库；GitHub 仅作阶段性中转和版本追溯。不得把坚果云同步目录当作 Git 工作树；迁移时不得修改源工作区。
 - 仅使用 `main` 分支。推送前核对仓库为 Private、远程地址、分支和已有内容。不得 force push，不覆盖或删除仓库已有有效文件；若远程状态有冲突或可见性不符，停止并报告。
 - 不提交密钥、访问令牌、私人配置、Obsidian 私人设置、缓存、无关项目、整本电子书/扫描件或无必要的大段原文副本；不要新增 GitHub Actions 或自动同步工作流。
-- 一批任务结束后检查文件数量、内部链接、Callout、格式和来源。提交前确认目标仓库及分支；提交后复核远端 `main`、Commit SHA 和本地干净状态。
+- 一批任务结束后检查文件数量、内部链接、Callout、格式和来源。提交前确认目标仓库及分支；提交后复核远端 `main`、Commit SHA 和工作区状态。

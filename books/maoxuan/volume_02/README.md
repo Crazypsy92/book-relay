@@ -1,10 +1,10 @@
-# 第2卷｜现存材料索引
+# 第二卷｜第35—55篇索引
 
-列出当前工作区可找到的第35—55篇材料。进度历史记载第34篇已完成，但没有找到独立的第34篇 Markdown 文件；未据此重建。
+本索引链接到 `work/` 中的正式编号笔记。第35篇已归入正式编号路径；历史导入目录中的同内容副本不另计篇目。
 
-## 文件
+## 正式笔记
 
-- [第35篇｜《〈共产党人〉发刊词》](../../../work/imported_notes/35_communist_journal_preface.md)
+- [第35篇｜《〈共产党人〉发刊词》](../../../work/35_communist_journal_preface.md)
 - [第36篇｜目前形势和党的任务](../../../work/36_current_situation_and_party_tasks.md)
 - [第37篇｜大量吸收知识分子](../../../work/37_absorb_intellectuals.md)
 - [第38篇｜中国革命和中国共产党](../../../work/38_china_revolution_and_chinese_communist_party.md)
@@ -25,7 +25,7 @@
 - [第53篇｜为皖南事变发表的命令和谈话](../../../work/53_order_and_talk_southern_anhui_incident.md)
 - [第54篇｜打退第二次反共高潮后的时局](../../../work/54_situation_after_repulse_second_anti_communist_offensive.md)
 - [第55篇｜关于打退第二次反共高潮的总结](../../../work/55_summary_defeat_second_anti_communist_high_tide.md)
-- [未编号附件｜和英国记者贝特兰的谈话](../../../work/imported_notes/talk_with_british_journalist_bertrand.md)
 
-> [!note] 附件编号
-> 《和英国记者贝特兰的谈话》未见可核实篇号，故不补编号。
+## 归档说明
+
+- `work/imported_notes/` 保存两份历史导入副本：第20篇和第35篇的内容副本，不作为额外篇目。详见 [导入副本说明](../../../work/imported_notes/README.md)。
