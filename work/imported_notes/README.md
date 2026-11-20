@@ -4,8 +4,8 @@
 
 | 本目录副本 | 正式编号笔记 | 状态 |
 | --- | --- | --- |
-| `35_communist_journal_preface.md` | [第35篇](../35_communist_journal_preface.md) | 内容完全相同；正式路径为主 |
-| `talk_with_british_journalist_bertrand.md` | [第20篇](../20_interview_with_british_journalist_bertram.md) | 内容完全相同；正式路径为主 |
+| `035_communist_journal_preface.md` | [第35篇](../035_communist_journal_preface.md) | 内容完全相同；正式路径为主 |
+| `talk_with_british_journalist_bertrand.md` | [第20篇](../020_interview_with_british_journalist_bertram.md) | 内容完全相同；正式路径为主 |
 
 ## 维护规则
 

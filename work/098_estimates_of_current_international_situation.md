@@ -133,6 +133,6 @@
 > | --- | --- | --- |
 > | [1] | [《毛泽东选集》第四卷目录电子页6](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page6.html) | 核对本篇题名、1946年4月题署、纸本页码1184—1185及下一篇目录信息；是可检索电子转录，不是目录影印 |
 > | [2] | [正文电子页74（纸本第1184页）](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page74.html)、[75](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page75.html) | 核对全文三项估计与篇首编者说明；电子转录不是1946年原件、1947年会议记录或1948年通知影印，也未用于校勘不同版本 |
-> | [3] | [第97篇《建立巩固的东北根据地》](97_establish_consolidated_northeast_base.md) | 本地前篇笔记，用于说明阅读顺序与尺度差异；不证明两份文件之间存在直接引用或因果关系 |
+> | [3] | [第97篇《建立巩固的东北根据地》](097_establish_consolidated_northeast_base.md) | 本地前篇笔记，用于说明阅读顺序与尺度差异；不证明两份文件之间存在直接引用或因果关系 |
 
 > 按第四卷目录，下一篇是《以自卫战争粉碎蒋介石的进攻》（1946年7月20日，第四卷第1186—1190页）。目录电子页6核对题名、日期和纸本页码；正文将由国际形势估计转入国内战事分析。

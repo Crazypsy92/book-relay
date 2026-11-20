@@ -125,7 +125,7 @@
 > | [美国国务院《Foreign Relations of the United States, 1946, Volume IX》目录](https://history.state.gov/historicaldocuments/frus1946v09/comp1)、[马歇尔1946年1月10日电报](https://history.state.gov/historicaldocuments/frus1946v09/d29)及[1月1日政协筹备备忘录](https://history.state.gov/historicaldocuments/frus1946v09/d31) | 说明停战、政协、军事重组和战区冲突均有大量外交文件可查；电报记录停战安排谈判，备忘录记录政协组成、公开会议争论和会前停战磋商 | 美国外交档案有来源和政策位置限制；备忘录是会议前的美国观察，电报也不能替代协定原件、会议记录或中方档案 |
 > | [1946年6月关于停止满洲敌对行动的未签署指令，FRUS IX](https://history.state.gov/historicaldocuments/frus1946v09/d591) | 提供六月停战谈判、部队调动限制和现场监督程序的具体文本参照 | 文件边注标明曾通过但未签署；适用于满洲的安排不能自动代表中国所有战区 |
 > | [Chen Jian, China between Peace and War, 第七章](https://press-files.anu.edu.au/downloads/press/n10954/html/ch07.xhtml?page=14&referer=) | 提供战争升级、谈判、围困与突围交织的学术叙述，并指出现场报告对双方责任的观察 | 作者基于其所引材料作出综合解释；作为单篇研究不构成最终定论，应与中美双方原始档案及其他研究对读 |
-> | [第98篇《关于目前国际形势的几点估计》](98_estimates_of_current_international_situation.md)；[第97篇《建立巩固的东北根据地》](97_establish_consolidated_northeast_base.md) | 回看1946年春的国际判断和东北根据地建设背景 | 本地笔记是研究导航，不代替原始文献或独立史料 |
+> | [第98篇《关于目前国际形势的几点估计》](098_estimates_of_current_international_situation.md)；[第97篇《建立巩固的东北根据地》](097_establish_consolidated_northeast_base.md) | 回看1946年春的国际判断和东北根据地建设背景 | 本地笔记是研究导航，不代替原始文献或独立史料 |
 > | [下一篇《和美国记者安娜·路易斯·斯特朗的谈话》，第四卷第1191页](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page81.html) | 与目录页6对照下一篇的题名和题署时间 | 只用于交接确认，不在本篇展开该谈话 |
 
 > [!info] 总结与下一篇

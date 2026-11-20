@@ -1,48 +1,49 @@
-# Book Relay｜书籍精读接力仓库
+# Book Archive｜长期书籍资料库
 
 ## 仓库定位
 
-本仓库用于长期书籍阅读、精读成果归档和云端 Codex 接力。**Obsidian + 坚果云仍是主工作区，GitHub 只承担中转、版本追溯和任务交接，不取代个人知识库。**
+本仓库用于长期保存书籍资料、精读笔记、来源索引和阅读进度。**GitHub 是长期归档副本，不是任务完成后清空的临时中转目录。**
 
-- Obsidian：日常阅读、编辑、双链和知识管理。
-- 坚果云：本地知识库的多设备同步。
-- GitHub：保存阶段性 Markdown 成果、模板、索引、进度和交接规范。
-- 云端 Codex：拉取仓库、按规范执行任务、更新进度并提交成果。
+- Obsidian + 坚果云：日常阅读、编辑、双链和个人知识管理。
+- GitHub：长期保存已经归档的书籍资料、Markdown 笔记、索引、来源记录和进度；项目阶段结束后继续保留。
+- Codex：按仓库规范继续精读、核对、整理和提交。
+
+除用户明确要求外，不因项目结束、任务完成或目录整理而删除已有书籍资料和有效笔记。
 
 ## 当前项目：《毛泽东选集》精读
 
 - 阅读底本：《毛泽东选集》，人民出版社1991年第二版，四卷本。
-- 当前仓库已归档编号覆盖：**第01—125篇**。
-- 当前下一项：**第126篇《一九四八年的土地改革工作和整党工作》**。具体任务状态以 [唯一进度文件](work/maoxuan_project_progress.md) 为准。
-- 编号覆盖表示对应文件已归档，不代表所有篇目都完成了同一轮质量返修；不要仅凭目录数量推断完成状态。
-- 第14篇有一个同内容的主模板副本；第99篇版本A是已完成验收的正式稿，版本B保留为补充参考稿，两份原文均保留。
+- 当前已归档编号：**第001—125篇**；下一项为**第126篇《一九四八年的土地改革工作和整党工作》**。
+- 归档数量只表示文件已保存，不代表每篇都完成了同一轮质量返修；具体状态以 [唯一进度文件](work/maoxuan_project_progress.md) 为准。
+- 正式篇目文件统一使用三位数字前缀，例如 `001_...`、`016_...`、`125_...`，保证 GitHub 文件列表按编号自然排列。
+- 第99篇保留正式稿和补充参考稿两份文件；正式稿为 `099_smash_chiang_kai_s_offensive_in_self_defense.md`。
 
 ## 导航入口
 
 - [《毛泽东选集》四卷总索引](books/maoxuan/README.md)
-  - [第一卷｜第01—34篇](books/maoxuan/volume_01/README.md)
-  - [第二卷｜第35—55篇](books/maoxuan/volume_02/README.md)
-  - [第三卷｜第56—87篇](books/maoxuan/volume_03/README.md)
-  - [第四卷｜第88—125篇](books/maoxuan/volume_04/README.md)
+  - [第一卷｜已归档第001—015篇](books/maoxuan/volume_01/README.md)
+  - [第二卷｜已归档第016—055篇](books/maoxuan/volume_02/README.md)
+  - [第三卷｜已归档第056—087篇](books/maoxuan/volume_03/README.md)
+  - [第四卷｜已归档第088—125篇（持续更新）](books/maoxuan/volume_04/README.md)
 - [工作区说明](work/README.md)
 - [当前精读进度](work/maoxuan_project_progress.md)
-- [主精读模板](work/14_template_practice_on_the_relation_between_knowledge_and_action.md)
 - [云端 Codex 工作规范](AGENTS.md)
 - [来源与材料边界](sources/README.md)
 - [初始迁移记录说明](logs/README.md)
 
 ## 目录职责
 
-- `work/`：保留编号笔记原路径、项目进度、检查脚本和历史参考副本。为保护 Obsidian 相对链接，未经检查不要随意移动或重命名笔记。
-- `books/maoxuan/`：只放四卷导航索引，不复制笔记正文。
+- `work/`：编号精读笔记、项目进度、检查脚本和必要的历史参考副本。
+- `books/maoxuan/`：按人民出版社1991年第二版实际卷次维护导航索引。
 - `sources/`：记录底本、外部来源及未上传材料的边界。
-- `logs/`：记录初始迁移清单和仓库整理说明。
+- `logs/`：保留初始迁移清单和历史整理记录。
 
-## 接力规则
+## 接力与归档规则
 
-1. 云端 Codex 每次开始前先读取 `AGENTS.md` 和 `work/maoxuan_project_progress.md`。
-2. 每次只推进一个明确篇目；完成后同步更新唯一进度文件。
+1. 每次开始前先读取 `AGENTS.md`、总索引和 `work/maoxuan_project_progress.md`。
+2. 每次只推进一个明确篇目；完成后更新唯一进度文件和对应卷索引。
 3. 一批任务完成并检查后再提交 GitHub，不做实时双向同步。
 4. 本地与云端不要同时修改同一批文件。
 5. 仓库保持 Private，只使用 `main` 分支；禁止 force push，不新增自动同步工作流。
-6. 不上传整本电子书、扫描件、密钥、访问令牌或私人配置。
+6. 不上传密钥、访问令牌、私人配置或未经授权的整本电子书/扫描件。
+7. 已归档资料长期保留；只有用户明确授权时才删除文件。

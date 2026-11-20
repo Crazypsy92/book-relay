@@ -153,7 +153,7 @@
 > | [1] | [《毛泽东选集》第四卷目录电子页6](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page6.html) | 核对本篇题名、1946年7月20日题署、纸本第1186—1190页及下一篇目录信息；为可检索电子目录，不是纸本影印 |
 > | [2] | [正文电子页76（纸本第1186页）](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page76.html)、[77](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page77.html)、[78](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page78.html)、[79](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page79.html)、[80](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page80.html) | 逐页核对六项指示、篇首背景说明和注释〔1〕—〔2〕；电子转录不是1946年原件、战区档案或居民证言 |
 > | [3] | [目录下一篇正文电子页81（纸本第1191页）](https://ebook.theorychina.org.cn/ebook/upload/storage/files/2022/07/26/6824fdc14cb3177c1199dbd1e97f7d6013320/files/basic-html/page81.html) | 核对下一篇标题与起始页，只用于目录接续 |
-> | [4] | [第98篇《关于目前国际形势的几点估计》](98_estimates_of_current_international_situation.md) | 本地前篇笔记，用于比较国际局势判断与国内战争指示的尺度；不证明两篇存在直接引用或因果关系 |
-> | [5] | [第97篇《建立巩固的东北根据地》](97_establish_consolidated_northeast_base.md) | 本地前篇笔记，用于比较东北区域建基方案与全国性战时任务；不代表东北各地实际执行结果 |
+> | [4] | [第98篇《关于目前国际形势的几点估计》](098_estimates_of_current_international_situation.md) | 本地前篇笔记，用于比较国际局势判断与国内战争指示的尺度；不证明两篇存在直接引用或因果关系 |
+> | [5] | [第97篇《建立巩固的东北根据地》](097_establish_consolidated_northeast_base.md) | 本地前篇笔记，用于比较东北区域建基方案与全国性战时任务；不代表东北各地实际执行结果 |
 
 > 按第四卷目录，下一篇是《和美国记者安娜·路易斯·斯特朗的谈话》（1946年8月6日，第四卷第1191—1196页）。目录电子页6及其正文电子页81已核对起始篇名。
