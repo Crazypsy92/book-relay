@@ -18,6 +18,13 @@
 - 正式篇目文件统一使用三位数字前缀，例如 `001_...`、`016_...`、`125_...`，保证 GitHub 文件列表按编号自然排列。
 - 第99篇保留正式稿和补充参考稿两份文件；正式稿为 `099_smash_chiang_kai_s_offensive_in_self_defense.md`。
 
+## 跨文体经典精读
+
+- 阅读方法与体裁路由遵循现有 [`unified-content-notes` Skill](https://github.com/Crazypsy92/unified-content-notes)：分别识别处理动作、文本结构和文体视角，按需复用模块，不另建统一模板。
+- 当前试运行作品：马克思《路易·波拿巴的雾月十八日》。[阅读导览与五单元计划](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](work/eighteenth_brumaire_reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)、[跨文体方法调整记录](work/cross_genre_reading_method.md)。
+- 已完成单元1（原著第一章试读）；下一项只读单元2（第二、三章）。每次接力以该项目唯一进度文件为准，一个单元一轮；全书读完后再做综合分析。
+- 作品书目、原文、外部研究和页码边界分别在导览及精读笔记中记录；不上传整本原著，不将一个版本的页码移植到另一译本。
+
 ## 导航入口
 
 - [《毛泽东选集》四卷总索引](books/maoxuan/README.md)
@@ -27,6 +34,7 @@
   - [第四卷｜已归档第088—157篇（全卷完成）](books/maoxuan/volume_04/README.md)
 - [工作区说明](work/README.md)
 - [当前精读进度](work/maoxuan_project_progress.md)
+- [跨文体经典精读进度](work/classics_reading_progress.md)
 - [云端 Codex 工作规范](AGENTS.md)
 - [来源与材料边界](sources/README.md)
 - [初始迁移记录说明](logs/README.md)
@@ -35,6 +43,7 @@
 
 - `work/`：编号精读笔记、项目进度、检查脚本和必要的历史参考副本。
 - `books/maoxuan/`：按人民出版社1991年第二版实际卷次维护导航索引。
+- `books/marx/`：经典作品的阅读导览、章节结构和分段计划。
 - `sources/`：记录底本、外部来源及未上传材料的边界。
 - `logs/`：保留初始迁移清单和历史整理记录。
 

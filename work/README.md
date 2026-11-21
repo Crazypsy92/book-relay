@@ -5,6 +5,9 @@
 ## 主要入口
 
 - [唯一进度文件](maoxuan_project_progress.md)：当前篇目、返修状态、证据记录和下一项任务。
+- [跨文体经典精读进度](classics_reading_progress.md)：经典作品的唯一单元状态、来源边界与下一项任务。
+- [跨文体精读主笔记](eighteenth_brumaire_reading_notes.md)：《路易·波拿巴的雾月十八日》单元1试读；作品计划见 [`books/marx/eighteenth_brumaire/README.md`](../books/marx/eighteenth_brumaire/README.md)。
+- [跨文体方法调整记录](cross_genre_reading_method.md)：复用现有 Skill 的文体路由、共享流程和试运行边界。
 - [四卷导航](../books/maoxuan/README.md)：按人民出版社1991年第二版实际卷次查找笔记。
 - [Obsidian Callout 检查脚本](check_obsidian_callouts.py)：检查 Obsidian Callout 格式。
 
