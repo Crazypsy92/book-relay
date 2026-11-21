@@ -22,7 +22,7 @@
 
 - 阅读方法与体裁路由遵循现有 [`unified-content-notes` Skill](https://github.com/Crazypsy92/unified-content-notes)：分别识别处理动作、文本结构和文体视角，按需复用模块，不另建统一模板。
 - 当前试运行作品：马克思《路易·波拿巴的雾月十八日》。[阅读导览与五单元计划](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](work/eighteenth_brumaire_reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)、[跨文体方法调整记录](work/cross_genre_reading_method.md)。
-- 已完成单元1（原著第一章）和单元2（第二、三章）；下一项只读单元3（第四、五章）。每次接力以该项目唯一进度文件为准，一个单元一轮；全书读完后再做综合分析。
+- 已完成单元1（原著第一章）、单元2（第二、三章）和单元3（第四、五章）；下一项只读单元4（第六章）。每次接力以该项目唯一进度文件为准，一个单元一轮；全书读完后再做综合分析。
 - 作品书目、原文、外部研究和页码边界分别在导览及精读笔记中记录；不上传整本原著，不将一个版本的页码移植到另一译本。
 
 ## 导航入口
