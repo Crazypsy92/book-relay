@@ -25,7 +25,7 @@
 
 ## 全书精读状态与版本边界
 
-[精读主笔记](../../../work/eighteenth_brumaire_reading_notes.md)已完成第一轮五单元与全书综合、第二轮五单元与全书人文 / 伦理复核。项目已结项，无下一单元；按接力约定停用本作品自动推进。唯一状态与遗留材料边界见[进度文件](../../../work/classics_reading_progress.md)及主笔记来源记录。
+[精读主笔记](reading_notes.md)已完成第一轮五单元与全书综合、第二轮五单元与全书人文 / 伦理复核。项目已结项，无下一单元；按接力约定停用本作品自动推进。唯一状态与遗留材料边界见[进度文件](../../../work/classics_reading_progress.md)及主笔记来源记录。
 
 ## 主要回查入口
 
@@ -37,6 +37,6 @@
 
 ### Obsidian 链接目标
 
-- [[work/eighteenth_brumaire_reading_notes|精读笔记]]
+- [[books/marx/eighteenth_brumaire/reading_notes|精读笔记]]
 - [[work/classics_reading_progress|阅读进度]]
 - [[work/cross_genre_reading_method|跨文体方法]]

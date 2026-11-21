@@ -21,8 +21,8 @@
 ## 跨文体经典精读
 
 - 阅读方法与体裁路由遵循现有 [`unified-content-notes` Skill](https://github.com/Crazypsy92/unified-content-notes)：分别识别处理动作、文本结构和文体视角，按需复用模块，不另建统一模板。
-- 当前作品：马克思《路易·波拿巴的雾月十八日》。[阅读导览与五单元计划](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](work/eighteenth_brumaire_reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)、[跨文体方法调整记录](work/cross_genre_reading_method.md)。
-- 第一轮已完成五个阅读单元（原著第一至七章）及一次全书综合分析；当前按用户明确要求进行第二轮人文观察、伦理辨析和独立思考完善，单元1已完成，下一项为单元2。每次接力以唯一进度文件为准，只处理一个单元；单元5完成后做全书复核并停止本作品自动推进。
+- 当前作品：马克思《路易·波拿巴的雾月十八日》。[阅读导览与五单元计划](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)、[跨文体方法调整记录](work/cross_genre_reading_method.md)。
+- 第一轮五个阅读单元（原著第一至七章）及全书综合分析、第二轮五个单元的人文观察与伦理复核均已完成；作品已正式归档并结项，现阶段不再自动推进。
 - 作品书目、原文、外部研究和页码边界分别在导览及精读笔记中记录；不上传整本原著，不将一个版本的页码移植到另一译本。
 
 ## 导航入口
@@ -43,7 +43,7 @@
 
 - `work/`：项目进度、跨文体精读笔记、质量检查脚本和必要的历史导入副本；毛选正式篇目不再放在这里。
 - `books/maoxuan/`：按人民出版社1991年第二版实际卷次保存正式精读笔记，并维护四卷索引。
-- `books/marx/`：经典作品的阅读导览、章节结构和分段计划。
+- `books/marx/`：经典作品的阅读导览、正式精读主笔记、章节结构和分段计划。
 - `sources/`：记录底本、外部来源及未上传材料的边界。
 - `logs/`：保留初始迁移清单和历史整理记录。
 

@@ -10,7 +10,7 @@
 - **当前进度：**第二轮“人文观察与独立思考”单元1—5及全书综合复核均已完成，项目结项；没有下一阅读单元。现有本书接力任务已停用，原频率与时区配置保留；不改动毛选项目，也不另起新书。
 - **方法记录：**[`cross_genre_reading_method.md`](cross_genre_reading_method.md)
 - **阅读导览：**[`eighteenth_brumaire_guide`](../books/marx/eighteenth_brumaire/README.md)
-- **精读主笔记：**[`eighteenth_brumaire_reading_notes`](eighteenth_brumaire_reading_notes.md)
+- **精读主笔记：**[`reading_notes`](../books/marx/eighteenth_brumaire/reading_notes.md)
 
 ## 第一轮试运行：单元1（第一章）完成记录
 
