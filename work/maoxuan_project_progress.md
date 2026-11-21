@@ -24,9 +24,9 @@
 
 - 当前正式编号文件覆盖第001—157篇；实际分卷以 `books/maoxuan/README.md` 为准。第36—54篇返修及第55—157篇逐篇精读已完成。
 - 独立模板和样例文件已按用户要求删除；正式编号笔记与历史导入副本保留。
-- `work/imported_notes/` 中的第20篇和第35篇副本分别与 `work/020_...`、`work/035_...` 完全相同，仅作为历史导入记录保留。
-- 第14篇只保留正式编号笔记；第99篇正式稿为 `../books/maoxuan/volume_04/099_smash_chiang_kai_s_offensive_in_self_defense.md`，补充参考稿为 `../books/maoxuan/volume_04/099_smash_chiang_kai_shek_s_offensive_in_self_defense.md`，均保留。
-- **第99篇双版本核对（2026-11-20）：**两份文件内容不同，且均在初始迁移提交 `4e5111b74b35286b5cb1f5c8fef524bf2a51978e` 中首次出现，Git 历史无法证明两者的先后顺序。正式稿确定为 `../books/maoxuan/volume_04/099_smash_chiang_kai_s_offensive_in_self_defense.md`：该文件已有本进度记录中的完整精读、15个Callout、3张表、15道文本锚定问题、12个外部来源链接及项目/Skill检查PASS记录；FRUS第九卷和ANU Press材料也已纳入证据边界。补充参考稿 `../books/maoxuan/volume_04/099_smash_chiang_kai_shek_s_offensive_in_self_defense.md` 增加了“六项指示的相互依赖”表和部分更细的人文问题，但其来源范围较窄，未替代正式稿的外部材料与验收记录。两份均不删除；后续常规返修只在正式稿进行，如吸收补充稿内容，须重新核对来源并运行质量检查。
+- 第20篇和第35篇曾各有一份旧导入副本，经逐字比较确认与正式卷内笔记完全相同，现已从当前工作树清理；正式篇目未删改，迁移过程仍可通过 Git 提交历史追溯。
+- 第14篇只保留正式编号笔记；第99篇正式稿为 `../books/maoxuan/volume_04/099_smash_chiang_kai_s_offensive_in_self_defense.md`，补充参考稿为 `../books/maoxuan/volume_04/references/099_supplementary_reference.md`，均保留。
+- **第99篇双版本核对（2026-11-20）：**两份文件内容不同，且均在初始迁移提交 `4e5111b74b35286b5cb1f5c8fef524bf2a51978e` 中首次出现，Git 历史无法证明两者的先后顺序。正式稿确定为 `../books/maoxuan/volume_04/099_smash_chiang_kai_s_offensive_in_self_defense.md`：该文件已有本进度记录中的完整精读、15个Callout、3张表、15道文本锚定问题、12个外部来源链接及项目/Skill检查PASS记录；FRUS第九卷和ANU Press材料也已纳入证据边界。补充参考稿 `../books/maoxuan/volume_04/references/099_supplementary_reference.md` 增加了“六项指示的相互依赖”表和部分更细的人文问题，但其来源范围较窄，未替代正式稿的外部材料与验收记录。两份均不删除；后续常规返修只在正式稿进行，如吸收补充稿内容，须重新核对来源并运行质量检查。
 - 第132篇《中国军事形势的重大变化》和第133篇《关于平津战役的作战方针》已完成；下一项以最新进度记录为准。
 
 **最终权威状态（2026-11-20）：**第36—54篇返修及第55—157篇逐篇精读均已完成。第157篇《唯心历史观的破产》（1949年9月16日，第四卷第1509—1517页）经第四卷目录电子页10核定为全书末篇；当前无下一篇。四卷共157篇，后续仅在用户明确要求时做返修、索引维护或来源复核。

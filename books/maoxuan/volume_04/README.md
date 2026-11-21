@@ -2,7 +2,7 @@
 
 
 收录时期：第三次国内革命战争时期。已按人民出版社1991年第二版目录列出第088—157篇；第157篇为目录第10页所列卷末篇。
-本卷第088—157篇正式笔记直接保存在本目录。第99篇保留两个版本：版本A为正式稿，版本B为补充参考稿，不替换正式稿。
+本卷第088—157篇正式笔记直接保存在本目录。第99篇仅正式稿列入编号篇目；补充参考稿单独存放在 `references/`，不计入篇目数量。
 
 ## 正式笔记
 
@@ -18,7 +18,6 @@
 - [第97篇｜建立巩固的东北根据地](097_establish_consolidated_northeast_base.md)
 - [第98篇｜关于目前国际形势的几点估计](098_estimates_of_current_international_situation.md)
 - [第99篇｜以自卫战争粉碎蒋介石的进攻｜正式稿（版本A，已验收）](099_smash_chiang_kai_s_offensive_in_self_defense.md)
-- [第99篇｜以自卫战争粉碎蒋介石的进攻｜补充参考稿（版本B）](099_smash_chiang_kai_shek_s_offensive_in_self_defense.md)
 - [第100篇｜和美国记者安娜·路易斯·斯特朗的谈话](100_talk_with_anna_louise_strong.md)
 - [第101篇｜集中优势兵力，各个歼灭敌人](101_concentrate_superior_forces_annihilate_enemy.md)
 - [第102篇｜美国“调解”真相和中国内战前途](102_truth_about_us_mediation_and_future_of_chinese_civil_war.md)
@@ -81,6 +80,10 @@
 - [第155篇｜为什么要讨论白皮书？](155_why_discuss_white_paper.md)
 - [第156篇｜“友谊”，还是侵略？](156_friendship_or_aggression.md)
 - [第157篇｜唯心历史观的破产](157_bankruptcy_of_idealist_view_of_history.md)
+
+## 补充参考资料
+
+- [第99篇补充参考稿（版本B；不计入正式篇目）](references/099_supplementary_reference.md)：保留较早版本中关于六项指示相互依赖关系的补充分析；正式返修以本卷第99篇正式稿为准。
 
 ## 卷末状态
 
