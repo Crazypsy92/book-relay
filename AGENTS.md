@@ -15,9 +15,9 @@
 - 第三卷：第056—087篇，抗日战争时期（下）。
 - 第四卷：第088—157篇，第三次国内革命战争时期；第157篇为1991年第二版目录所列卷末篇。当前第001—157篇均已归档并完成精读；无下一篇。后续只按用户要求进行索引维护、来源复核或明确指定的返修。
 - 以上分卷以人民出版社1991年第二版各卷目录和《第二版出版说明》为准；不要按笔记数量或年代自行重新划分。
-- 正式篇目文件统一使用三位数字前缀：`001_英文文件名.md` 至 `...`。第99篇两个版本均以 `099_` 开头，正式稿为 `099_smash_chiang_kai_s_offensive_in_self_defense.md`，参考稿为 `099_smash_chiang_kai_shek_s_offensive_in_self_defense.md`。
-- `work/imported_notes/` 中的历史导入副本保留原始文件名，不计为正式篇目，也不参与主编号排序。
-- 新增篇目时同步更新对应卷索引、总索引和进度文件。
+- 正式篇目文件统一使用三位数字前缀，并直接存放在对应卷目录：`books/maoxuan/volume_01/001_英文文件名.md` 至 `books/maoxuan/volume_04/157_英文文件名.md`。卷次范围：第一卷001—015、第二卷016—055、第三卷056—087、第四卷088—157。第99篇两个版本均以 `099_` 开头，正式稿为 `099_smash_chiang_kai_s_offensive_in_self_defense.md`，参考稿为 `099_smash_chiang_kai_shek_s_offensive_in_self_defense.md`；两份均保存在第四卷目录。
+- `work/imported_notes/` 中的历史导入副本保留原始文件名，不计为正式篇目，也不参与主编号排序。`work/` 不再存放毛选正式编号篇目。
+- 新增或返修篇目时直接在对应 `books/maoxuan/volume_XX/` 目录中维护文件，并同步更新对应卷索引、总索引和 `work/maoxuan_project_progress.md`。
 
 ## 内容与证据标准
 
