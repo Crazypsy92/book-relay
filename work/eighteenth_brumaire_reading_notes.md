@@ -448,7 +448,7 @@ Judith DeGroat 的研究摘要指出，二月革命后工人阶级女性通过�
 >
 > 　　Huard依据了地方报刊、请愿和档案线索；本项目未直接检查被引用的请愿原件、选民名册或每位签名者资料，也未从统计推算个体家庭生活。原作关于秩序党行动与共和国代表基础受损的解释仍有解释力，但不能因地方数据而自动扩展成全国普遍经验。
 >
-> **第二轮下一项：**单元4（第六章《波拿巴的胜利》），只补充本章中的普通人处境、伦理冲突、对马克思因果解释的检验和开放问题；巴黎与外省镇压、伤亡及军队行动继续按进度文件区分已核事实与空白，不重写第一轮。交接范围见[[work/classics_reading_progress|唯一进度文件]]与[[books/marx/eighteenth_brumaire/README|阅读导览]]。
+> **第二轮交接记录（已归档）：**单元3完成时曾将单元4（第六章《波拿巴的胜利》）列为下一项；该单元现已完成，当前接力以[[work/classics_reading_progress|唯一进度文件]]为准。
 
 ### 第二轮补充来源与证据边界
 
@@ -562,10 +562,30 @@ Judith DeGroat 的研究摘要指出，二月革命后工人阶级女性通过�
 - **同时代制度文本：**法国总统府刊载的[1848年11月4日宪法](https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848)，页面标注国家档案馆藏件号 AE/I/29/9。本单元核对第45、50、51、64、68、104—106、111条；法国国民议会的[政变史回顾](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique/coup-d-etat-de-louis-napoleon-bonaparte)用于交叉查看议会受占、代表遭捕和后续公投，但属于后出的机构叙述。
 - **同时代法令与公告：**《1851年法律、法令、命令及国务会议意见汇编》第51卷，[第481页](https://fr.wikisource.org/wiki/Page%3ACollection_compl%C3%A8te_des_lois%2C_d%C3%A9crets%2C_ordonnances%2C_r%C3%A8glemens_et_avis_du_Conseil_d%27%C3%89tat%2C_tome_51%2C_1851.djvu/481)及[第482页](https://fr.wikisource.org/wiki/Page%3ACollection_compl%C3%A8te_des_lois%2C_d%C3%A9crets%2C_ordonnances%2C_r%C3%A8glemens_et_avis_du_Conseil_d%27%C3%89tat%2C_tome_51%2C_1851.djvu/482)，影像链接随页提供；数字转录页标为未校对。前者核对12月2日法令正文和签署日期；后者记录总统致军队公告、诉诸人民的表述及公投召集内容。法国国家图书馆的[12月4日法令目录记录](https://catalogue.bnf.fr/ark:/12148/cb415221599)确认投票被改定在12月20—21日并采取秘密投票。法令能证明官方文本规定了什么，不能单独证明执行是否自由或民众如何理解。
 - **伤亡数字争议：**Eugène Ténot, *Paris in December, 1851; or, The Coup d’État of Napoleon III* (New York: Hurd and Houghton, 1870), 英译本据法文第十三版翻译，[美国国会图书馆数字本](https://tile.loc.gov/storage-services/service/ll/llmlp/Paris-in-December_1851/Paris-in-December_1851.pdf)，印刷页239—240。Ténot并列转述警察总监、Mayer / Trébuchet和《箴言报》的不同统计，并明确指出证据冲突；它是接近事件年代的回顾性记述，不是中立统计机关。
-- **外省与家庭后果：**Marcel Hénaux, “Les victimes du coup d’État du 2 décembre 1851 dans l’Hérault,” *Études Héraultaises*, n° 5–6 (1989–1990), pp. 165–176, [全文](https://www.etudesheraultaises.fr/publi/les-victimes-du-coup-detat-du-2-decembre-1851-dans-lherault/)。作者说明文章依据雷蒙·于阿尔指导的硕士论文和地方档案；本轮只选用文章明确记载的埃罗省监禁及家庭个案，不外推为全国情况。
+- **外省与家庭后果：**Marcel Hénaux, “Les victimes du coup d’État du 2 décembre 1851 dans l’Hérault,” *Études Héraultaises*, n° 5–6 (1989–1990), pp. 165–176, [全文](https://www.etudesheraultaises.fr/publi/les-victimes-du-coup-detat-du-2-decembre-1851-dans-lherault/)。作者说明文章依据雷蒙·于阿尔指导的硕士论文和地方档案；使用埃罗省监禁、家庭个案及互助记录，不外推为全国情况，也未声称本项目直接调阅其所引档案。
 - **被追诉者资料的口径提醒：**Jean-Claude Farcy / Dominique Fry，[1851年12月事件后被追诉者数据库](https://poursuivis-decembre-1851.fr/index.php)，用于辨别“被登记追诉者”与“全部逮捕者、反对者或死伤者”的不同统计对象。数据库覆盖的是可追索的追诉与裁判记录，不能直接充当全国受害者总数。
 - **后出学术研究（仅摘要）：**Hee-Young Yang, “2 December 1851, Louis Napoleon Bonaparte’s Coup d’état,” *Korean Review of French History* 50 (2024): 273–307, [DOI](https://doi.org/10.51786/RCHF.2024.02.50.273)。本轮仅核对题录与摘要；摘要所提行政权和军队准备仅作为进一步研究线索，不声称通读全文。
 - **未核事项：**没有找到总统政变计划所涉资金和个人贿赂的独立档案，没有逐条查军令、国民议会会议记录、各部队执行日志或投票原始名册；伤亡数据也未重算。上述空白不以本章作者的判断或后出官方回顾补足。
+
+### 第二轮复核：生活代价、授权与责任
+
+> [!note] 既有个案与伦理判断的边界
+>
+> 　　单元4首轮笔记已记录埃罗省两起家庭个案：一名被捕雇员的妻子带九个孩子申请救济；Marie Benoit在狱中早产后死亡，丈夫获释时须照料两个幼儿。Hénaux还记载有农民代为照料被流放者的田地，并统计298个家庭提出救济申请。<span style="color: var(--color-green); font-weight: 600;">这一组记录既显示镇压如何落到家计、孕产与照护，也留下地方互助的线索。</span>这些均是埃罗省后出研究呈现的有限个案和汇总，不是本项目直接查验的档案；不能据此推算全法受害人数，也不能替当事人补写心情或政治动机。
+>
+> 　　宪法文本提出的议会、高等法院和公民拒绝服从路径，与12月2日的实际强制之间存在落差。**后来举行公投或恢复男性普选，不能单凭结果追认政变前的解散议会与拘捕合乎宪法；同时，现有材料也不足以把各级官员、军官、士兵和普通居民的责任混成同一判断。**需分别考察命令制定、传达、执行与拒绝执行的条件。军令链、部队记录和个体证言仍是缺口，因此责任判断只能保持在制度与已知行动层面。
+
+> [!question] 第二轮开放思考
+>
+> 1. 如果政变后举行的投票给新政权提供支持，这种支持能否改变对夺权程序的评价？应当怎样考虑戒严、拘捕、信息环境和选民选择之间的关系？
+> 2. 地方农民维护被流放者的田地、家庭申请救济，既可能是邻里责任，也可能是政治团结或慈善实践。怎样区分这些动机？目前的研究材料能回答到哪一步？
+> 3. 当违宪命令由组织层层传达时，个人、指挥者与机构各自承担什么责任？现有政变史料还缺少哪些材料，才能判断具体拒令或服从选择？
+
+> [!summary] 第二轮复核结论与下一项
+>
+> 　　复核后，首轮已经保存的埃罗家庭材料、巴黎伤亡口径争议、宪法规则与政变法令，足以支撑本单元所需的人文处境、授权伦理和责任问题；本轮不重复添加案例或扩写第一轮论证。仍未解决的是巴黎与外省伤亡的可比统计、投票环境、军令传达及普通士兵和居民的直接记录。
+>
+> **第二轮下一项：**单元5（第七章《总结》及全书综合复核）。只检查现有综合分析能否吸收第二轮单元1—4的人文与伦理材料、明确马克思分析的解释力和限制，再按进度文件完成最终检查；不要提前宣布整轮完成。
 
 ## 单元5：代表关系、农民与行政国家——全书综合
 
