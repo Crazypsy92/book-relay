@@ -2,17 +2,16 @@
 
 ## 状态与唯一任务来源
 
-本文件仅管理跨文体经典作品精读。毛选项目的历史与完成状态仍以 [`maoxuan_project_progress.md`](maoxuan_project_progress.md) 为准；该项目四卷已完成，本任务不改动其笔记、索引或进度。
+本文件仅管理跨文体经典作品精读。毛选项目的历史与完成状态仍以 [`maoxuan_project_progress.md`](maoxuan_project_progress.md) 为准；四卷157篇已完成，本任务不改动其笔记、索引或进度。
 
-- **当前作品：**毛泽东《寻乌调查》（1930年调查；收入《毛泽东文集》第一卷）。
-- **前一作品：**马克思《路易·波拿巴的雾月十八日》两轮精读已结项；完整历史记录保留在本文件下方，正式笔记已归档至 `books/marx/eighteenth_brumaire/reading_notes.md`。
-- **体裁路由：**调查研究与报告；结构以纪实材料、分类描述和调查分析为主，复用知识纪实、调查报告路由、来源边界与质量检查，必要时分析调查方法。
-- **当前阶段：**《寻乌调查》九个单元、全书综合和本轮质量验收已完成；阅读与综合依据为共产党员网公开转录，不代表1993年纸本逐字校勘。未核问题保留在阅读导览、主笔记和终验记录中，不再自动推进本书。
-- **下一项：**无。本书精读项目结项；未指定新作品，不自动启动其他项目。
-- **方法记录：**[`cross_genre_reading_method.md`](cross_genre_reading_method.md)
-- **阅读导览：**[`xunwu_investigation_guide`](../books/maozedong/xunwu_investigation/README.md)
-- **精读主笔记：**[`xunwu_investigation_notes`](../books/maozedong/xunwu_investigation/reading_notes.md)
-- **既有定时任务：**原接力任务已停用；每小时触发规则和 Asia/Shanghai 时区设置保留，但不再自动执行，也未创建替代任务。
+- **当前接力作品：**鲁迅《阿Q正传》（小说，后收入《呐喊》）；**准备阶段，尚未开始第一单元**。
+- **当前任务：**首次执行需核对《阿Q正传》原作及九章结构、选择可回查版本、确定文学精读单元和来源边界，随后建立 `books/luxun/ah_q/README.md` 与唯一正式主笔记 `books/luxun/ah_q/reading_notes.md`；只在原文核对可靠后才完成首个单元。
+- **叙述规范：**正文从“我读到了什么、为何在意、怎样理解、哪里还想追问”展开；避免“本文认为”“报告指出”和项目验收口吻。先读人物与细节、叙述者与讽刺、情节和处境、普通人的局限，再作有依据的文学/人文思考；不要把小说写成研究报告。具体规范见 `AGENTS.md` 与 `work/cross_genre_reading_method.md`。
+- **已结项作品：**毛泽东《寻乌调查》九个单元和全书综合完成，正式主笔记 `books/maozedong/xunwu_investigation/reading_notes.md`；本次按用户反馈进行了读者视角润色，保留数字、出处和待核问题。原公开转录的底本与1993纸本仍未校勘。
+- **更早结项：**马克思《路易·波拿巴的雾月十八日》两轮精读完成，主笔记 `books/marx/eighteenth_brumaire/reading_notes.md`。
+- **下一项：**《阿Q正传》版本、章节与阅读单元建档；不得恢复《寻乌调查》九单元或马克思五单元的自动推进。
+- **阅读方法：**[`cross_genre_reading_method.md`](cross_genre_reading_method.md)
+- **沿用定时任务：**复用原跨文体精读接力任务的每小时 / Asia/Shanghai 计划，不另建任务；各次运行以本文件顶部状态为准。若本书最终验收通过，则记录结项并停用本书接力。
 
 ## 《寻乌调查》首次接力：版本核验、路线建立与单元1
 
