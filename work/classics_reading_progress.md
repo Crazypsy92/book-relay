@@ -12,7 +12,7 @@
 - **方法记录：**[`cross_genre_reading_method.md`](cross_genre_reading_method.md)
 - **阅读导览：**[`xunwu_investigation_guide`](../books/maozedong/xunwu_investigation/README.md)
 - **精读主笔记：**[`xunwu_investigation_notes`](../books/maozedong/xunwu_investigation/reading_notes.md)
-- **既有定时任务：**本书结项后停用原接力任务；原有每小时触发规则和 Asia/Shanghai 时区设置不改，仅禁用自动执行，不创建替代任务。
+- **既有定时任务：**原接力任务已停用；每小时触发规则和 Asia/Shanghai 时区设置保留，但不再自动执行，也未创建替代任务。
 
 ## 《寻乌调查》首次接力：版本核验、路线建立与单元1
 
@@ -235,5 +235,5 @@
 - **质量验收：**项目与 Skill 的 Obsidian Callout / 高亮结构检查通过；`git diff --check` 通过；四份修改范围内 Markdown 文件的本地链接目标检查通过；主笔记表格列数一致，九个单元及综合标题齐全，维持一份主笔记和一份导览。简体字符专检未运行（环境未安装 OpenCC）；本轮未声称外部 URL 可访问性复测。
 - **未解决事项：**按导览与主笔记列出的版本、注释、统计口径、地契 / 账册 / 会议记录、女性与其他缺席群体直接材料等问题保持 UNKNOWN，不以项目结项替代后续资料核验。
 - **时间记录：**没有可核验的逐项计时记录，不报告具体分钟数。
-- **接力任务：**本轮归档推送后停用原任务；保留原每小时 / Asia/Shanghai 计划参数，不创建替代任务。停止本书自动推进，不自动启动其他作品。
+- **接力任务：**原接力任务已停用并由自动化记录确认；保留原每小时 / Asia/Shanghai 计划参数，不创建替代任务。停止本书自动推进，不自动启动其他作品。
 - **下一项：**无。
