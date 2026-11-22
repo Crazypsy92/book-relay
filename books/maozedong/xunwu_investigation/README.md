@@ -50,6 +50,8 @@
 
 单元9完成后，才开展全书综合：调查设计与资料形成、分类和证据链、社会结构及普通人处境、政策推理的因果范围、记录中的缺席者、调查方法可迁移的条件。之后单独进行质量验收，不在每轮重复整书总结。
 
+**当前状态：**九个单元、全书综合和最终格式 / 链接验收均已完成；唯一进度文件记录结项。归档依据仍是未注明底本的公开转录，1993年纸本及注释未作逐字校勘。
+
 ## 可回查来源
 
 1. [《毛泽东文集》（第一卷）书刊介绍｜理论中国](https://www.theorychina.org.cn/c/2023-12-21/1489824.shtml)——出版社、出版时间及文集版本说明。
@@ -60,4 +62,4 @@
 
 ---
 
-本目录只作阅读导览和来源边界说明。实际状态及唯一下一单元见 [`work/classics_reading_progress.md`](../../../work/classics_reading_progress.md)；内容笔记维护在 [`reading_notes.md`](reading_notes.md)。
+本目录只作阅读导览和来源边界说明。项目已结项，不设下一单元；历史状态见 [`work/classics_reading_progress.md`](../../../work/classics_reading_progress.md)，内容笔记维护在 [`reading_notes.md`](reading_notes.md)。
