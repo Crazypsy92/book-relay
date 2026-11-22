@@ -22,7 +22,7 @@
 
 - 阅读方法与体裁路由遵循现有 [`unified-content-notes` Skill](https://github.com/Crazypsy92/unified-content-notes)：分别识别处理动作、文本结构和文体视角，按需复用模块，不另建统一模板。
 - 已结项作品：马克思《路易·波拿巴的雾月十八日》；[阅读导览](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)。两轮阅读与全书综合分析完成后停止推进，历史记录保留在唯一进度文件。
-- 当前新作品：毛泽东《寻乌调查》，社会调查报告；[阅读导览与九单元路线](books/maozedong/xunwu_investigation/README.md)、[精读主笔记](books/maozedong/xunwu_investigation/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)。已建立导览与主笔记并完成版本 / 目录核验、文体路由；单元1—2依据公开转录完成，单元3待推进。
+- 当前新作品：毛泽东《寻乌调查》，社会调查报告；[阅读导览与九单元路线](books/maozedong/xunwu_investigation/README.md)、[精读主笔记](books/maozedong/xunwu_investigation/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)。已建立导览与主笔记并完成版本 / 目录核验、文体路由；单元1—3依据公开转录完成，单元4待推进。
 - 两部作品均遵循来源边界：不上传整本原著，不将一个版本的页码移植到另一版本；当前状态只以唯一进度文件为准。
 
 ## 导航入口
