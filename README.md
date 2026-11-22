@@ -24,7 +24,7 @@
 - 已结项作品：马克思《路易·波拿巴的雾月十八日》；[阅读导览](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)。两轮阅读与全书综合分析完成后停止推进，历史记录保留在唯一进度文件。
 - 已结项作品：毛泽东《寻乌调查》，社会调查报告；[阅读导览与九单元路线](books/maozedong/xunwu_investigation/README.md)、[精读主笔记](books/maozedong/xunwu_investigation/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)。九个单元、全书综合与格式 / 链接验收已完成；阅读依据为共产党员网公开转录，1993年纸本仍待校。原接力任务已停用；原每小时 / Asia/Shanghai 计划参数保留但不再自动执行。
 - 已按用户要求将《寻乌调查》正式笔记调整为读者视角（不改史料与数值），今后精读正文用“我读到了什么、为什么在意、还有哪些疑问”展开，而不是写成会议纪要。
-- **当前接力：**鲁迅《阿Q正传》（小说，九章）；五个阅读单元已完成，下一步为独立的全作综合反思与质量验收。导览与唯一精读主笔记见 [`books/luxun/ah_q/`](books/luxun/ah_q/README.md)；唯一状态见 [跨文体经典精读进度](work/classics_reading_progress.md)。
+- **已归档并暂停：**鲁迅《阿Q正传》（小说，九章）五个阅读单元、全书人文综合与最终内容 / Obsidian 结构验收已完成。电子转录底本和初刊 / 《呐喊》初版异文尚未校勘，书目来源项标为部分完成；详情见 [阅读导览](books/luxun/ah_q/README.md)、[精读主笔记](books/luxun/ah_q/reading_notes.md) 与 [跨文体经典精读进度](work/classics_reading_progress.md)。原接力任务已暂停，不自动开始新作品。
 - 已结项作品均遵循来源边界：不上传整本原著，不将一个版本的页码移植到另一版本；当前状态只以唯一进度文件为准。
 
 ## 导航入口
