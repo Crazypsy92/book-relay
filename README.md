@@ -21,9 +21,9 @@
 ## 跨文体经典精读
 
 - 阅读方法与体裁路由遵循现有 [`unified-content-notes` Skill](https://github.com/Crazypsy92/unified-content-notes)：分别识别处理动作、文本结构和文体视角，按需复用模块，不另建统一模板。
-- 当前作品：马克思《路易·波拿巴的雾月十八日》。[阅读导览与五单元计划](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)、[跨文体方法调整记录](work/cross_genre_reading_method.md)。
-- 第一轮五个阅读单元（原著第一至七章）及全书综合分析、第二轮五个单元的人文观察与伦理复核均已完成；作品已正式归档并结项，现阶段不再自动推进。
-- 作品书目、原文、外部研究和页码边界分别在导览及精读笔记中记录；不上传整本原著，不将一个版本的页码移植到另一译本。
+- 已结项作品：马克思《路易·波拿巴的雾月十八日》；[阅读导览](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)。两轮阅读与全书综合分析完成后停止推进，历史记录保留在唯一进度文件。
+- 当前新作品：毛泽东《寻乌调查》，社会调查报告；[阅读导览与九单元路线](books/maozedong/xunwu_investigation/README.md)、[精读主笔记](books/maozedong/xunwu_investigation/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)。首次接力已建立导览与主笔记，完成版本 / 目录核验、文体路由和单元1（依据公开转录）；单元2待推进。
+- 两部作品均遵循来源边界：不上传整本原著，不将一个版本的页码移植到另一版本；当前状态只以唯一进度文件为准。
 
 ## 导航入口
 

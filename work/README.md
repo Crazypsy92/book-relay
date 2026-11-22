@@ -8,6 +8,7 @@
 - [毛选四卷总索引](../books/maoxuan/README.md)：进入对应卷目录查找正式篇目。
 - [跨文体经典精读进度](classics_reading_progress.md)：经典作品的唯一单元状态、来源边界与下一项任务。
 - [《路易·波拿巴的雾月十八日》精读主笔记](../books/marx/eighteenth_brumaire/reading_notes.md)：两轮五个阅读单元及全书综合分析；作品导览见 [对应目录](../books/marx/eighteenth_brumaire/README.md)。
+- [《寻乌调查》精读主笔记](../books/maozedong/xunwu_investigation/reading_notes.md)：社会调查报告的九单元精读主笔记；版本和阅读路线见 [对应导览](../books/maozedong/xunwu_investigation/README.md)。
 - [跨文体方法调整记录](cross_genre_reading_method.md)：文体路由、共享流程和试运行边界。
 - [Obsidian Callout 检查脚本](check_obsidian_callouts.py)：检查 Obsidian Callout 格式。
 
