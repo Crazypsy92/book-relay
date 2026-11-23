@@ -24,10 +24,12 @@
 - 已结项作品：马克思《路易·波拿巴的雾月十八日》；[阅读导览](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)。两轮阅读与全书综合分析完成后停止推进，历史记录保留在唯一进度文件。
 - 已结项作品：毛泽东《寻乌调查》，社会调查报告；[阅读导览与九单元路线](books/maozedong/xunwu_investigation/README.md)、[精读主笔记](books/maozedong/xunwu_investigation/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)。九个单元、全书综合与格式 / 链接验收已完成；阅读依据为共产党员网公开转录，1993年纸本仍待校。原接力任务已停用；原每小时 / Asia/Shanghai 计划参数保留但不再自动执行。
 - 已按用户要求将《寻乌调查》正式笔记调整为读者视角（不改史料与数值），今后精读正文用“我读到了什么、为什么在意、还有哪些疑问”展开，而不是写成会议纪要。
-- **已归档并暂停：**鲁迅《阿Q正传》（小说，九章）五个阅读单元、全书人文综合与最终内容 / Obsidian 结构验收已完成。电子转录底本和初刊 / 《呐喊》初版异文尚未校勘，书目来源项标为部分完成；详情见 [阅读导览](books/luxun/ah_q/README.md)、[精读主笔记](books/luxun/ah_q/reading_notes.md) 与 [跨文体经典精读进度](work/classics_reading_progress.md)。原接力任务已暂停，不自动开始新作品。
+- **已完成并融合归档：**鲁迅《阿Q正传》五个阅读单元、全书人文综合与质量验收已完成，并已并入用户原有的《呐喊·彷徨·故事新编》33篇合订本 [唯一正式正文](books/luxun/lu_xun_novels_integrated.md)。[阿Q阅读导览](books/luxun/ah_q/README.md)保留版本与来源边界；旧独立精读路径仅作兼容入口。初刊 / 《呐喊》初版 / 电子转录尚未逐字校勘，原接力任务继续暂停。
 - 已结项作品均遵循来源边界：不上传整本原著，不将一个版本的页码移植到另一版本；当前状态只以唯一进度文件为准。
 
 ## 导航入口
+
+- [鲁迅三部小说集合订本｜呐喊·彷徨·故事新编（含阿Q专题深读）](books/luxun/lu_xun_novels_integrated.md)
 
 - [《毛泽东选集》四卷总索引](books/maoxuan/README.md)
   - [第一卷｜已归档第001—015篇](books/maoxuan/volume_01/README.md)
@@ -46,6 +48,7 @@
 - `work/`：项目进度、跨文体阅读进度与方法记录，以及质量检查脚本；正式精读笔记统一归档在 `books/`。
 - `books/maoxuan/`：按人民出版社1991年第二版实际卷次保存正式精读笔记，并维护四卷索引。
 - `books/marx/`：经典作品的阅读导览、正式精读主笔记、章节结构和分段计划。
+- `books/luxun/`：鲁迅三部小说集合订本；单篇专题深化优先融合进已有合订本，避免重复正文。
 - `sources/`：记录底本、外部来源及未上传材料的边界。
 - `logs/`：保留初始迁移清单和历史整理记录。
 

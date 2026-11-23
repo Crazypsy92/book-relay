@@ -29,4 +29,5 @@
 
 ## 正式精读
 
-- [[reading_notes|《阿Q正传》读者精读笔记]]
+- **唯一正式正文：**[[books/luxun/lu_xun_novels_integrated#《阿Q正传》|《呐喊·彷徨·故事新编》中的阿Q专题深读]]。
+- `reading_notes.md` 保留为历史路径兼容入口，正文已融合进三书合订本，不再重复维护。
