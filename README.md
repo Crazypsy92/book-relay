@@ -24,7 +24,7 @@
 - 已结项作品：马克思《路易·波拿巴的雾月十八日》；[阅读导览](books/marx/eighteenth_brumaire/README.md)、[精读主笔记](books/marx/eighteenth_brumaire/reading_notes.md)。两轮阅读与全书综合分析完成后停止推进，历史记录保留在唯一进度文件。
 - 已结项作品：毛泽东《寻乌调查》，社会调查报告；[阅读导览与九单元路线](books/maozedong/xunwu_investigation/README.md)、[精读主笔记](books/maozedong/xunwu_investigation/reading_notes.md)、[唯一进度文件](work/classics_reading_progress.md)。九个单元、全书综合与格式 / 链接验收已完成；阅读依据为共产党员网公开转录，1993年纸本仍待校。原接力任务已停用；原每小时 / Asia/Shanghai 计划参数保留但不再自动执行。
 - 已按用户要求将《寻乌调查》正式笔记调整为读者视角；后续精读以具体文本和阅读过程为主线，第一人称适量自然使用，避免第三人称会议纪要腔，也避免机械堆叠“我读到 / 我认为”。小说笔记优先参考用户认可的《文城》连续场景叙事节奏。
-- **读者视角返修已完成，原文事实核验进行中：**鲁迅《呐喊》《彷徨》《故事新编》33篇合订本中，《阿Q正传》专题保持不变，其余32篇完成叙述深化；现有 **27/32篇**已对照可访问原文核对并修订，本轮新增《补天》《奔月》《理水》，另5篇待核验。已修复早期笔记对人物行动、叙事顺序、关键细节、人物动机及叙述者视角的遗漏或过度概括。核验规范见 [unified-content-notes Skill](https://github.com/Crazypsy92/unified-content-notes)。[唯一正式正文](books/luxun/lu_xun_novels_integrated.md)；[阅读进度](work/classics_reading_progress.md)。当前核对不等于不同纸本 / 初刊版本逐字校勘，原接力任务继续暂停。
+- **读者视角返修已完成，原文事实核验进行中：**鲁迅《呐喊》《彷徨》《故事新编》33篇合订本中，《阿Q正传》专题保持不变，其余32篇完成叙述深化；现有 **30/32篇**已对照可访问原文核对并修订，本轮新增《采薇》《铸剑》《出关》，仅剩《非攻》《起死》两篇待核验。已修复早期笔记对人物行动、叙事顺序、关键细节、人物动机及叙述者视角的遗漏或过度概括。核验规范见 [unified-content-notes Skill](https://github.com/Crazypsy92/unified-content-notes)。[唯一正式正文](books/luxun/lu_xun_novels_integrated.md)；[阅读进度](work/classics_reading_progress.md)。当前核对不等于不同纸本 / 初刊版本逐字校勘，原接力任务继续暂停。
 - 已结项作品均遵循来源边界：不上传整本原著，不将一个版本的页码移植到另一版本；当前状态只以唯一进度文件为准。
 
 ## 导航入口
