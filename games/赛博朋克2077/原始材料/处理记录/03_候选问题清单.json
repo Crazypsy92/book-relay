@@ -11,7 +11,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“V自然是无法接受这个结果”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_01",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:27872:912e68ae6a",
@@ -22,7 +29,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“你应该来与我一起”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_01",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31634:677bdcf8b9",
@@ -33,7 +47,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“才获得了半个世纪的安宁和权势”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31744:20a0091c4f",
@@ -44,7 +65,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“让他不可能拒绝强尼的请求”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31818:b6f1b8c63d",
@@ -55,7 +83,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“合作的原因和心境完全不同”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31852:201eecefd2",
@@ -66,7 +101,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“那就是再干荒版一票”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31903:ef1d6f2259",
@@ -77,7 +119,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“想从正面打进去是别想了”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31930:5492470545",
@@ -88,7 +137,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“他打算开著军用科技的”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31952:cc5a08759e",
@@ -99,7 +155,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“专属轰炸机飞闯进去”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:31972:acf3600292",
@@ -110,7 +173,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“不过跟50年前的炸荒版塔”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:32032:ad4771134c",
@@ -121,7 +191,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“然后从电梯井一路向下”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:32054:1e47add152",
@@ -132,7 +209,14 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“再借助反重力推进器降落底部”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     },
     {
       "candidate_id": "repeated_phrase:32082:55a751fc60",
@@ -143,7 +227,44 @@
       "suggestions": [],
       "reason": "发现相邻重复片段“只要靠著出其不意”；可能是强调或识别重复，不能自动删除。",
       "status": "REVIEW_REQUIRED",
-      "audio_verified": false
+      "audio_verified": false,
+      "text_review": {
+        "reviewed_at": "2026-11-27",
+        "exact_range_match": true,
+        "cluster_id": "text_cluster_02",
+        "audio_verified": false,
+        "decision": "KEEP_PENDING_AUDIO"
+      }
     }
-  ]
+  ],
+  "text_review_summary": {
+    "reviewed_at": "2026-11-27",
+    "source_file": "../视频转录/08_终极解读03_CDPR与结局_原始转录.md",
+    "offset_basis": "Offsets are relative to the body immediately after the '## 口播转录' heading; body begins at character offset 216 in the Markdown file.",
+    "candidate_count": 13,
+    "exact_range_match_count": 13,
+    "cluster_count": 2,
+    "clusters": [
+      {
+        "cluster_id": "text_cluster_01",
+        "range": [
+          27741,
+          27889
+        ],
+        "candidate_count": 2,
+        "description": "两处位于同一结局解释段落的相邻重复句候选。"
+      },
+      {
+        "cluster_id": "text_cluster_02",
+        "range": [
+          31634,
+          32099
+        ],
+        "candidate_count": 11,
+        "description": "集中出现在罗格与荒坂塔突入方案的连续叙述中，包含多句连续重复。"
+      }
+    ],
+    "interpretation": "本轮只确认候选原文与原始转录对应位置完全一致，并按相邻段落聚类；无法判断重复来自讲者口播、字幕拼接还是 ASR 分段，因此不删除、不合并、不将任何候选标记为音频核验通过。",
+    "audio_verified": false
+  }
 }
